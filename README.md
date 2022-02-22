@@ -43,13 +43,12 @@ def max_marks(list1):
 
 
 ```
-## Sample Input and Output
-![output1](MAXIMUMOUTPUT1.PNG)
-![output2](MAXIMUMOUTPUT2.PNG)
-![output3](MAXIMUMOUTPUT3.PNG)
-
 
 ## Output:
+![output1](./MAXIMUMOUTPUT1.png)
+![output2](./MAXIMUMOUTPUT2.png)
+![output3](./MAXIMUMOUTPUT3.png)
+
 
 
 
